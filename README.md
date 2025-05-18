@@ -44,7 +44,7 @@ Due to file size limitations, the `.pkl` feature files for the ViT visual embedd
 
 You can download them from the following links:
 
-- [Google Drive]([https://drive.google.com/file/d/your_train_file_id/view?usp=sharing](https://drive.google.com/drive/folders/15AoZ7bYJV3DRTzRMspMYJB-lOQDgv-FJ?usp=share_link))
+- [Google Drive]([(https://drive.google.com/drive/folders/15AoZ7bYJV3DRTzRMspMYJB-lOQDgv-FJ?usp=share_link)])
 
 
 
