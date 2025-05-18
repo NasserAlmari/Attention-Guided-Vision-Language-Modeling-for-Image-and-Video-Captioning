@@ -3,7 +3,7 @@
 This repository presents an advanced image captioning framework that generates detailed and context-aware captions by combining transformer-based encoders and attention-enhanced decoders. It leverages visual and relational cues in the image to improve caption quality and generalization.
 
 ---
-
+## Image Captioning Model
 ## 📌 Overview
 
 This model integrates:
