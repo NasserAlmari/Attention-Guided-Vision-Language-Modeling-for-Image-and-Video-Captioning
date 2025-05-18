@@ -27,7 +27,14 @@ The combination improves both visual understanding and linguistic coherence.
 - Modular design for easy extension and experimentation
 
 ---
+## 📁 File Overview
 
-## 📁 Directory Structure
-├── data/ # Processed datasets and annotations ├── models/ # Model definitions │ ├── blip_encoder.py # Visual encoder │ ├── gpt2_decoder.py # Language decoder │ ├── attention_modules.py # Scene/Object/Graph Attention ├── utils/ # Helper functions and evaluation scripts ├── train.py # Model training script ├── evaluate.py # Model evaluation script ├── configs/ # YAML config files ├── checkpoints/ # Saved model weights └── README.md # Project documentation
+| File / Notebook            | Description |
+|---------------------------|-------------|
+| `train.py`                | Main training script for the captioning model |
+| `preprocessing.py`        | Preprocessing script to prepare image-caption pairs and features |
+| `inference_inhance.ipynb` | Jupyter notebook for generating captions using the trained model (with enhancements) |
+| `ViT-Large_train.pkl`     | Precomputed vision transformer features for training set |
+| `ViT-Large_val.pkl`       | Precomputed vision transformer features for validation set |
+
 
