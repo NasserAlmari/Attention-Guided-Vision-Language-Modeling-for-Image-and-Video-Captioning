@@ -34,7 +34,7 @@ The combination improves both visual understanding and linguistic coherence.
 | `train.py`                | Main training script for the captioning model |
 | `preprocessing.py`        | Preprocessing script to prepare image-caption pairs and features |
 | `inference_inhance.ipynb` | Jupyter notebook for generating captions using the trained model (with enhancements) |
-| `ViT-Large_train.pkl`     | Precomputed vision transformer features for training set |
-| `ViT-Large_val.pkl`       | Precomputed vision transformer features for validation set |
+| `ViT-Large_train.pkl (MSCOCO dataset 2017)`     | Precomputed vision transformer features for training set |
+| `ViT-Large_val.pkl (MSCOCO dataset 2017)`       | Precomputed vision transformer features for validation set |
 
 
