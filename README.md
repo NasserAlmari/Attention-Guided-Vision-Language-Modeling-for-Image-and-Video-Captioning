@@ -38,3 +38,13 @@ The combination improves both visual understanding and linguistic coherence.
 | `ViT-Large_val.pkl (MSCOCO dataset 2017)`       | Precomputed vision transformer features for validation set |
 
 
+## 📦 Precomputed Dataset Features
+
+Due to file size limitations, the `.pkl` feature files for the ViT visual embeddings are hosted on Google Drive.
+
+You can download them from the following links:
+
+- [Google Drive]([https://drive.google.com/file/d/your_train_file_id/view?usp=sharing](https://drive.google.com/drive/folders/15AoZ7bYJV3DRTzRMspMYJB-lOQDgv-FJ?usp=share_link))
+
+
+
