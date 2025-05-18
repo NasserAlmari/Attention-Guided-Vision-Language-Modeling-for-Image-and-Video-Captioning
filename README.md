@@ -33,15 +33,14 @@ The combination improves both visual understanding and linguistic coherence.
 |---------------------------|-------------|
 | `train.py`                | Main training script for the captioning model |
 | `preprocessing.py`        | Preprocessing script to prepare image-caption pairs and features |
-| `inference_inhance.ipynb` | Jupyter notebook for generating captions using the trained model (with enhancements) |
+| `inference.ipynb` | Jupyter notebook for generating captions using the trained model |
 | `ViT-Large_train.pkl (MSCOCO dataset 2017)`     | Precomputed vision transformer features for training set |
 | `ViT-Large_val.pkl (MSCOCO dataset 2017)`       | Precomputed vision transformer features for validation set |
 
 
-## 📦 Precomputed Dataset Features
+## 📦 Precomputed Dataset Features and Trained Model
 
-Due to file size limitations, the `.pkl` feature files for the ViT visual embeddings are hosted on Google Drive.
-
+Due to file size limitations, the `.pkl` feature files for the ViT visual embeddings in addtion of trained model are hosted on Google Drive.
 You can download them from the following links:
 
 - [Google Drive](https://drive.google.com/drive/folders/15AoZ7bYJV3DRTzRMspMYJB-lOQDgv-FJ?usp=share_link)
